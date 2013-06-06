@@ -1,12 +1,12 @@
-# fluent-plugin-chatter-admin
+# fluent-plugin-chatter-api
 
-Fluentd input plugin for chatter admin.
+Fluentd input plugin for chatter api.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'fluent-plugin-chatter-admin'
+    gem 'fluent-plugin-chatter-api'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install fluent-plugin-chatter-admin
+    $ gem install fluent-plugin-chatter-api
 
 ## Usage
 
